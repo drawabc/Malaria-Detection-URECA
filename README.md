@@ -2,6 +2,6 @@
 
 ### Automated Image Classification for Malaria Detection
 
-app @ image.py <br>
+app @ malaria_detection_app.py <br>
 notebook @ malaria.ipynb <br>
 trained model @ malaria.h5
